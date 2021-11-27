@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: springboot-container
-        image: maheshroshini08/springboottest:v1
+        image: maheshroshini08/springboottest:v2
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
